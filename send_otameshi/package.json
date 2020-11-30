@@ -1,0 +1,9 @@
+{
+  "name": "send_otameshi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "firebase-admin": "^9.4.1"
+  }
+}
